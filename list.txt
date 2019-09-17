@@ -1,3 +1,6 @@
+SEGGroup2
+
 Stent List:
 Student#     Grp  Name
-300010511   2    SEGGroup2
+300010511   2    Alexandra Sklokin
+300035614   2    Salomé Dionne-Laforest
